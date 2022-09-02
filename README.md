@@ -1,4 +1,4 @@
-# OpenVaccine
+# Kaggle_openvaccine
 <img src="figure/titlefigure.png">
 Kaggle diary for COVID-19 mRNA Vaccine Degradation Prediction
 このリポジトリはSantaコンペ2020のKaggle日記です(コンペ後に作成)。
